@@ -10,7 +10,7 @@ h1{
 #container{
     height: 325px;
     width: 350px;
-    /* background-color: pink; */
+    background-color: pink;
 
     display: grid;
     grid-template-columns: 100px 1fr;
@@ -22,7 +22,7 @@ h1{
     ".total-bill"
     "btn btn";
     margin: 0 auto;
-    border: 5px solid black;
+    border: 3px solid black;
     padding: 25px;
 }
 
