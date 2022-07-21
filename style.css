@@ -12,10 +12,10 @@ html{
     grid-template-columns: 100px 1fr;
     grid-template-rows: 75px 75px 75px 75px;
     grid-template-areas: 
-    ""
-    ""
-    ""
-    ""
+    ".bill-amount"
+    ".tip-percentage"
+    ".tip-amount"
+    ".total-bill"
     "";
     margin: 0 auto;
     border: 5px solid black;
