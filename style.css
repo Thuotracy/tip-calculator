@@ -21,3 +21,19 @@ html{
     border: 5px solid black;
     padding: 20px;
 }
+
+#bill_amount{
+    grid-area: bill-amount;
+}
+
+#tip_percentage{
+    grid-area: tip-percentage;
+}
+
+#tip_amount{
+    grid-area: tip-amount;
+}
+
+#total_bill{
+    grid-area: total-amount;
+}
