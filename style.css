@@ -37,3 +37,8 @@ html{
 #total_bill{
     grid-area: total-amount;
 }
+
+.input-styling{
+    height: 25px;
+    width: 250px;
+}
