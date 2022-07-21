@@ -3,10 +3,14 @@ html{
     height: 100%;
 }
 
+h1{
+    text-align: center;
+}
+
 #container{
     height: 325px;
     width: 350px;
-    background-color: white;
+    /* background-color: pink; */
 
     display: grid;
     grid-template-columns: 100px 1fr;
@@ -16,10 +20,10 @@ html{
     ".tip-percentage"
     ".tip-amount"
     ".total-bill"
-    "";
+    "btn btn";
     margin: 0 auto;
     border: 5px solid black;
-    padding: 20px;
+    padding: 25px;
 }
 
 #bill_amount{
@@ -35,7 +39,7 @@ html{
 }
 
 #total_bill{
-    grid-area: total-amount;
+    grid-area: total-bill;
 }
 
 .input-styling{
