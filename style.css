@@ -2,3 +2,22 @@ html{
     background-color: gray;
     height: 100%;
 }
+
+#container{
+    height: 325px;
+    width: 350px;
+    background-color: white;
+
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    grid-template-rows: 75px 75px 75px 75px;
+    grid-template-areas: 
+    ""
+    ""
+    ""
+    ""
+    "";
+    margin: 0 auto;
+    border: 5px solid black;
+    padding: 20px;
+}
