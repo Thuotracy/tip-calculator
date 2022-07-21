@@ -45,6 +45,7 @@ h1{
 .input-styling{
     height: 25px;
     width: 250px;
+    border: 1px solid black;
 }
 
 #btn{
