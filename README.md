@@ -1,6 +1,5 @@
 # TIP CALCULATOR
 
-
 ## Technologies Used
 * HTML
 * CSS
